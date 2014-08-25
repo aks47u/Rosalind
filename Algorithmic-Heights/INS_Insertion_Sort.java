@@ -6,7 +6,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 
-public class R004_INS_Insertion_Sort {
+public class INS_Insertion_Sort {
 	private static ArrayList<String> inData;
 
 	public static void main(String[] args) throws IOException {
