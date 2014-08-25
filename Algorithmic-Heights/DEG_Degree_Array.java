@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class R003_DEG_Degree_Array {
+public class DEG_Degree_Array {
 	private static ArrayList<String> inData;
 
 	public static void main(String[] args) throws IOException {
