@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class R006_MAJ_Majority_Element {
+public class MAJ_Majority_Element {
 	private static ArrayList<String> inData;
 
 	public static void main(String[] args) throws IOException {
