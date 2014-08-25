@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class R007_MER_Merge_Two_Sorted_Arrays {
+public class MER_Merge_Two_Sorted_Arrays {
 	private static ArrayList<String> inData;
 
 	public static void main(String[] args) throws IOException {
