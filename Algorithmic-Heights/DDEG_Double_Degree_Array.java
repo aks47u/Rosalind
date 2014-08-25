@@ -6,7 +6,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 
-public class R005_DDEG_Double_Degree_Array {
+public class DDEG_Double_Degree_Array {
 	private static ArrayList<String> inData;
 
 	public static void main(String[] args) throws IOException {
