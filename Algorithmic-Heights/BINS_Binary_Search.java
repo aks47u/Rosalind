@@ -6,7 +6,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 
-public class R002_BINS_Binary_Search {
+public class BINS_Binary_Search {
 	private static ArrayList<String> inData;
 
 	public static void main(String[] args) throws IOException {
