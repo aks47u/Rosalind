@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Stack;
 
-public class R010_CC_Connected_Components {
+public class CC_Connected_Components {
 	private static ArrayList<String> inData;
 
 	public static void main(String[] args) throws IOException {
