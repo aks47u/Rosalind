@@ -6,7 +6,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 
-public class R005_INI5_Working_with_Files {
+public class INI5_Working_with_Files {
 	private static ArrayList<String> inData;
 
 	public static void main(String[] args) throws IOException {
