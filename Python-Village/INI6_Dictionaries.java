@@ -6,7 +6,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 
-public class R006_INI6_Dictionaries {
+public class INI6_Dictionaries {
 	private static ArrayList<String> inData;
 
 	public static void main(String[] args) throws IOException {
