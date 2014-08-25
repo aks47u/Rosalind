@@ -6,7 +6,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 
-public class R004_INI4_Conditions_and_Loops {
+public class INI4_Conditions_and_Loops {
 	private static ArrayList<String> inData;
 
 	public static void main(String[] args) throws IOException {
