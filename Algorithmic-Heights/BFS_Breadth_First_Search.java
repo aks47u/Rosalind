@@ -6,7 +6,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 
-public class R009_BFS_Breadth_First_Search {
+public class BFS_Breadth_First_Search {
 	private static ArrayList<String> inData;
 
 	public static void main(String[] args) throws IOException {
