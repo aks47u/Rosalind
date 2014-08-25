@@ -6,7 +6,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 
-public class R008_2SUM_2SUM {
+public class twoSUM_2SUM {
 	private static ArrayList<String> inData;
 
 	public static void main(String[] args) throws IOException {
